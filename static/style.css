@@ -1,8 +1,8 @@
 :root {
-  --bg-dark: #242423;
+  --bg-dark: #0c001a;
   --bg-light: #333533;
   --fg-light: #E8EDDF;
-  --callout: rgb(255, 255, 102);
+  --callout: rgb(179, 102, 255);
   --callout-dark: #101010;
 }
 
